@@ -1,0 +1,50 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+build/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+
+# Maven
+pom.xml
+mvnw
+mvnw.cmd
+.mvn/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application-specific
+application.properties
+application.yml
+*.properties
+*.yml
+*.yaml
