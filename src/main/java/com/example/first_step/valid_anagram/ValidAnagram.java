@@ -1,4 +1,4 @@
-package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.valid_anagram;
+package com.example.first_step.valid_anagram;
 
 import java.util.HashMap;
 import java.util.Map;

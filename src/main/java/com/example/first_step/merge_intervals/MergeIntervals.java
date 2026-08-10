@@ -1,4 +1,4 @@
-package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.merge_intervals;
+package com.example.first_step.merge_intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;

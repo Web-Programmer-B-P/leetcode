@@ -1,4 +1,4 @@
-package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.contains_duplicate;
+package com.example.first_step.contains_duplicate;
 
 import java.util.HashSet;
 import java.util.Set;

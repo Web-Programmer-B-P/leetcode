@@ -1,4 +1,4 @@
-package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.insert_interval;
+package com.example.first_step.insert_interval;
 
 import java.util.ArrayList;
 import java.util.Arrays;
