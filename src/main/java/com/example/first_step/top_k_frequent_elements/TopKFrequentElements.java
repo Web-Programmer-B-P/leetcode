@@ -1,4 +1,4 @@
-package com.example.top_k_frequent_elements;
+package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.top_k_frequent_elements;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.example.product_of_array_except_self;
+package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.product_of_array_except_self;
 
 import java.util.Arrays;
 

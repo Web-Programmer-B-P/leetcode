@@ -1,4 +1,4 @@
-package com.example.longest_consecutive_sequence;
+package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.longest_consecutive_sequence;
 
 import java.util.Arrays;
 import java.util.HashSet;

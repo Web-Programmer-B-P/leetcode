@@ -1,4 +1,4 @@
-package com.example.two_sum;
+package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.two_sum;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.example.best_time_to_buy_and_sell_stock;
+package com.example.first_step.best_time_to_buy_and_sell_stock;
 
 /**
  * You are given an array prices where prices[i] is the price of a given stock on the ith day.

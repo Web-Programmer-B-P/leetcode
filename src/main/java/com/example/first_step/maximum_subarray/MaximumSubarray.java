@@ -1,4 +1,4 @@
-package com.example.maximum_subarray;
+package com.example.arrays_and_hash_tables.best_time_to_buy_and_sell_stock.maximum_subarray;
 
 /**
  * Given an integer array nums, find the subarray with the largest sum, and return its sum.
