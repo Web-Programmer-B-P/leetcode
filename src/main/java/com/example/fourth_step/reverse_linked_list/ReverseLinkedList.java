@@ -29,9 +29,9 @@ public class ReverseLinkedList {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode newHead = reverseListRecursive(head.next);
-        head.next.next = head;
-        head.next = null;
+        ListNode newHead = reverseListRecursive(head.next); //Возвращаем начальный узел новую голову
+        head.next.next = head; //Меняем указатель следующего узла теперь он будет указывать обратно на текущий узел.
+        head.next = null;// Разрываем прямую связь на старый узел, чтобы избежать зацикливания
         return newHead;
     }
 
